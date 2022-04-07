@@ -1,0 +1,12 @@
+{
+    "web_apps": [
+        {
+            "manifest": "https://egvijayanand.github.io/WeeklyXamarinBlazor/manifest.json",
+            "details": {
+                "paths": [
+                    "/*"
+                ]
+            }
+        }
+    ]
+}
